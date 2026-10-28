@@ -1,5 +1,4 @@
-#1
-#Login
+#1_Login
 
 def registrar_usuario():
     print("    CINEMATIC - CREAR CUENTA    ")
